@@ -10,12 +10,12 @@
 ##   <img alt="Loading Gif" src="./assets/contact-us.gif" width="40" style="margin-bottom:-14px"/>   Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://shenadrei4.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shen-andrei)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shenandrei4)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shenandrei4)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-1DA1F0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shenandrei4)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenandrei4@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shenandrei4/)
-[![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shenandrei4)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marksandrineasobo)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/marksandrineasobo)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-1DA1F0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marksandrineasobo)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marksandrineasobo@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/marksandrineasobo/)
+[![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/marksandrineasobo)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22627404/andrei-shen)
 <br>
 
@@ -71,14 +71,14 @@
 <p align="left"> <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a><a href="https://vscode.coom" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </a><a href="https://linux.org" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " alt="Linux" /> </a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes Badge"> <a href="https://docker.com" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " alt="Docker" /> </a><a href="https://figma.com" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=white" alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" alt="Jira Badge"> <img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge" alt="Asana Badge">              
 </p>
  
-## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Andrei Shen's Github Stats 
+## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Mark Sandrine Asobo's Github Stats 
 <p align="center">
-<a href="https://github.com/shenandrei4/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andrei Shen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shenandrei4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+<a href="https://github.com/marksandrineasobo/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark Sandrine Asobo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=marksandrineasobo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 </p>
 
-| [![Andrei Shen's Github stats](https://github-readme-stats.vercel.app/api?username=shenandrei4&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/shenandrei4) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenandrei4&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/shenandrei4) |
+| [![Mark Sandrine Asobo's Github stats](https://github-readme-stats.vercel.app/api?username=marksandrineasobo&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/marksandrineasobo) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marksandrineasobo&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/marksandrineasobo) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
@@ -89,6 +89,6 @@
 
 
 <hr/>
-<p align="center">Thanks for going through My Portfolio. All rights reserved by Andrei Shen @2024</p>
+<p align="center">Thanks for going through My Portfolio. All rights reserved by Mark Sandrine Asobo @2024</p>
 <hr/>
 
