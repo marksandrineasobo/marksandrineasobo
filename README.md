@@ -9,7 +9,7 @@
 -   💻 I enjoy learning new things & sharing knowledge
 ##   <img alt="Loading Gif" src="./assets/contact-us.gif" width="40" style="margin-bottom:-14px"/>   Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://marksandrineasobo.github.io/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/marksandrineasobo/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marksandrineasobo@gmail.com)
 <br>
 
 ## <img alt="Developer Gif" src="./assets/developer.gif" width="40" style="margin-bottom:-8px"/> Programming Languages:
