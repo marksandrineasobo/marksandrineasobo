@@ -8,15 +8,8 @@
 -   ❤️ I am passionate about Software Engineering
 -   💻 I enjoy learning new things & sharing knowledge
 ##   <img alt="Loading Gif" src="./assets/contact-us.gif" width="40" style="margin-bottom:-14px"/>   Connect with me! <br>
-[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://shenadrei4.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shen-andrei)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marksandrineasobo)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/marksandrineasobo)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-1DA1F0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marksandrineasobo)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marksandrineasobo@gmail.com)
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://marksandrineasobo.github.io/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/marksandrineasobo/)
-[![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/marksandrineasobo)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22627404/andrei-shen)
 <br>
 
 ## <img alt="Developer Gif" src="./assets/developer.gif" width="40" style="margin-bottom:-8px"/> Programming Languages:
