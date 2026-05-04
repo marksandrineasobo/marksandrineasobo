@@ -14,7 +14,7 @@
 
 ## <img alt="Developer Gif" src="./assets/developer.gif" width="40" style="margin-bottom:-8px"/> Programming Languages:
 <p align="left">
-  <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/-PYTHON-519490?style=for-the-badge&=labelColorblack&logo=javascript&logoColor=519490" alt="python"/> </a>
+  <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/-PYTHON-519490?style=for-the-badge&=labelColorblack&logo=python&logoColor=519490" alt="python"/> </a>
   <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&=labelColorblack&logo=javascript&logoColor=F0DB4F" alt="javascript"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="typescript" /> </a>
   <a href="https://www.learncs.org/" target="_blank"> <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&labelColor=black&logo=csharp&logoColor=007acc" alt="csharp" /> </a>
